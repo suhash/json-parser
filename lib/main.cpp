@@ -1,8 +1,7 @@
 //
 //  main.cpp
-//  kwiq
 //
-//  Created by walmart on 12/08/12.
+//  Created by suhash on 12/08/12.
 //  Copyright (c) 2012 __MyCompanyName__. All rights reserved.
 //
 

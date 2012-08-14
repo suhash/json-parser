@@ -1,15 +1,9 @@
 //
 //  Object.h
-//  kwiq
 //
-//  Created by walmart on 13/08/12.
+//  Created by suhash on 13/08/12.
 //  Copyright (c) 2012 __MyCompanyName__. All rights reserved.
 //
-
-#ifndef kwiq_Object_h
-#define kwiq_Object_h
-
-#endif
 
 #include <map>
 #include <string>
