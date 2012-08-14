@@ -5,11 +5,6 @@
 //  Copyright (c) 2012 __MyCompanyName__. All rights reserved.
 //
 
-#ifndef kwiq_Util_h
-#define kwiq_Util_h
-
-#endif
-
 #include <string>
 #include <sstream>
 #include <hash_map.h>
